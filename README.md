@@ -1,8 +1,6 @@
-<p align="center"><a href="https://hknaydin.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://akitamavialp.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
-
-I'm a embedded software engineer from Turkey
 
 **About me**
 
@@ -30,7 +28,7 @@ I'm a embedded software engineer from Turkey
 #### Top Repositories
 
 <a href="https://github.com/akitamavialp/akitamavialp.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=Collect-View---Contiki&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=hknaydin.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/akitamavialp/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=OSF_terminal_file_input_name&theme=buefy" />
@@ -40,7 +38,7 @@ I'm a embedded software engineer from Turkey
 </a>
 
 <a href="https://github.com/akitamavialp/akitamavialp.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=Coruh-Edas-Data-Parser-OSF&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=hknaydin.github.io&theme=buefy" />
 </a>
 <br />
 <br />
