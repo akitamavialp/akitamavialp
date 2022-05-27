@@ -31,7 +31,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=hknaydin.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/akitamavialp/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=OSF_terminal_file_input_name&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=hknaydin.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/akitamavialp/akitamavialp.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akitamavialp&repo=hknaydin.github.io&theme=buefy" />
