@@ -10,7 +10,7 @@
 
 - ❤️ I love writing c, java, android and python
 
-- 💬 Ask me about anything [here](https://github.com/hknaydin/hknaydin/issues)
+- 💬 Ask me about anything [here](https://github.com/akitamavialp/akitamavialp/issues)
 
 
 
@@ -22,7 +22,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   
 
-| <a href="https://github.com/hknaydin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hknaydin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hakan's github stats" /></a> | <a href="https://github.com/hknaydin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hknaydin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/akitamavialp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akitamavialp&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AKİTA's github stats" /></a> | <a href="https://github.com/akitamavialp/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akitamavialp&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
